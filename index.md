@@ -14,7 +14,7 @@ E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com
 autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI neurofeedback
 
 
-## Publications 
+# Publications 
 #### Google citations: [Link](https://scholar.google.com/citations?hl=en)    
 
 
