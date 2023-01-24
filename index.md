@@ -6,10 +6,11 @@ Senior Assistant Professor
 Medical Institute of Developmental Disabilities Research,  
 Showa University, Tokyo, Japan  
 E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com  
-
+[<img src="https://italab03.github.io//m2021Twitterlogo-black.png" height="50" style="float: left;">](https://twitter.com/titahashi)
 
 #### Research interests:
 autism spectrum disorder, attention-deficit/hyperactivity disorder, neuroscience, fMRI, fMRI neurofeedback
+
 
 ## Publications 
 #### Google citations: [Link](https://scholar.google.com/citations?hl=en)    
