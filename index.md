@@ -6,7 +6,7 @@ Senior Assistant Professor
 Medical Institute of Developmental Disabilities Research,  
 Showa University, Tokyo, Japan  
 E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com  
-[<img src="https://github.com/italab03/italab03.github.io/blob/0b052117fa15efa6f8dbc8eeaa86e15becf180dd/2021Twitterlogo-black.png" height="50" style="float: left;">](https://twitter.com/titahashi)
+[<img src="https://raw.githubusercontent.com/italab03/italab03.github.io/main/2021Twitterlogo-black.png" height="50" style="float: left;">](https://twitter.com/titahashi)
 
 
 #### Research interests:
