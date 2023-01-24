@@ -10,12 +10,12 @@ E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com
 [<img src="https://raw.githubusercontent.com/italab03/italab03.github.io/main/2021Twitterlogo-black.png" height="20">](https://twitter.com/titahashi) [<img src="https://raw.githubusercontent.com/italab03/italab03.github.io/main/github-mark.png" height="20">](https://github.com/italab03)
 
 
-# Research interests:
+# Research interests
 autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI neurofeedback
 
 
 # Publications 
-## Google citations: [Link](https://scholar.google.com/citations?hl=en)    
+#### Google citations: [Link](https://scholar.google.com/citations?hl=en)    
 
 
 ## Preprints/Submitted
