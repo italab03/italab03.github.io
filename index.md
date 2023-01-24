@@ -1,11 +1,11 @@
 
 
-Takashi Itahashi
+Takashi Itahashi  
 Senior Assistant Professor  
 
-Medical Institute of Developmental Disabilities Research,
-Showa University, Japan
-E-mail:   ita3{At}med.showa-u.ac.jp  
+Medical Institute of Developmental Disabilities Research,  
+Showa University, Japan  
+E-mail:   ita3{At}med.showa-u.ac.jp   
 
 #### Research interests:
 Neurodevelopmental disorders, autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI
