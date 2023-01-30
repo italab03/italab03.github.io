@@ -12,8 +12,6 @@ E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com
 
 # Research interests
 autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI neurofeedback
----
-## News
 
 ---
 # Publications 
