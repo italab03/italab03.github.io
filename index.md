@@ -3,7 +3,7 @@
 Takashi Itahashi  
 Senior Assistant Professor  
 
-Medical Institute of Developmental Disabilities Research,  
+[Medical Institute of Developmental Disabilities Research](https://middrshowa.github.io/),  
 Showa University, Tokyo, Japan  
 E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com  
 
