@@ -26,7 +26,7 @@ autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI n
 
 
 ## Journal publications (selected)
-1. Nakamura, Y., ..., Aoki, R., Nakamura, M., Ohta, H., <u>Itahashi, T</u>., ..., Hashimoto, R., ..., Koike, S. Distinctive alterations in the mesocorticolimbic circuits in various psychiatric disorders. <b>Psychiatry and Clinical Neuroscience</b> (2023) [https://doi.org/10.1111/pcn.13542](https://doi.org/10.1111/pcn.13542)
+1. Nakamura, Y., ..., Aoki, R., Nakamura, M., Ohta, H., <u>Itahashi, T</u>., ..., Hashimoto, R., ..., Koike, S. [Distinctive alterations in the mesocorticolimbic circuits in various psychiatric disorders](https://doi.org/10.1111/pcn.13542). <b>Psychiatry and Clinical Neuroscience</b> (2023)
 2. Tamon, H., <u>Itahashi, T.</u>, Yamaguchi, S., Tachibana, Y., Fujino, J., Igarashi, M., Kawashima, M., Takahashi, R., Shinohara, N.A., Noda, Y., Nakajima, S., Hirota, T., Aoki, Y.Y. [Autistic children and adolescents with frequent restricted interest and repetitive behavior showed more difficulty in social cognition during mask-wearing during the COVID-19 pandemic: a multisite survey](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04249-8). <b>BMC Psychiatry</b> (2022)
 3. Qian, C., Tei, S., <u>Itahashi, T.</u>, Aoki, Y.Y., Ohta, H., Hashimoto R., Nakamura, M., Takahashi, H., Kato, N., Fujino, J. [Intergroup bias in punishing behaviors of adults with autism spectrum disorder](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.884529/full). <b>Frontiers in Psychiatry</b> (2022).
 
