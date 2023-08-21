@@ -11,7 +11,7 @@ E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com
 
 
 # Research interests
-autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI neurofeedback
+neurodevelopmental disorders, fMRI, MRI, machine learning
 
 ---
 # Publications 
@@ -21,7 +21,6 @@ autism spectrum disorder, attention-deficit/hyperactivity disorder, fMRI, fMRI n
 ## Preprints/Submitted
 1. <u>Itahashi, T.</u>, Yamashita, A., ... , Aoki, Y.Y., Fujino, J., ... , Nakamura, N., Aoki, R., Ohta, H., ..., , Kato, N., ..., Hashimoto, R. [Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study](https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1)
 2. <u>Itahashi, T.,</u>, Aoki, Y.Y., Yamashita, A., Soda, T., Fujino, J., Ohta, H., Aoki, R., Nakamura, M., Kato, N., Tanaka, S.C., Kokuryo, D., Hashimoto, R. [Effects of upgrading acquisition-techniques and harmonization methods: A multi-modal MRI study with implications for longitudinal designs](https://www.biorxiv.org/content/10.1101/2021.10.31.466635v1)
-
 
 
 ## Journal publications (selected)
