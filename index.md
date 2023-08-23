@@ -11,11 +11,11 @@ E-mail:   ita3{At}med.showa-u.ac.jp or itapan322{At}gmail.com
 
 
 # Research interests
-neurodevelopmental disorders, fMRI, MRI, machine learning
+neurodevelopmental disorders, fMRI, machine learning
 
 ---
 # Publications 
-#### Google citations: [Link](https://scholar.google.com/citations?hl=en)    
+#### Google citations: [Link](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)    
 
 
 ## Preprints/Submitted
