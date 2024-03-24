@@ -229,10 +229,13 @@ html, body {
 .mdl-demo .toc a {
   color: #4DD0E1;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 28px;
   display: block;
 }
 .mdl-demo .mdl-menu__container {
   z-index: 99;
+}
+h6 {
+  color: #c71585;
 }
