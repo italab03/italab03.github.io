@@ -1,0 +1,12 @@
+main:
+
+  - title: "Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies"
+    authors: Hiroki Tamon, Junya Fujino, Takashi Itahashi, Lennart Frahm, Valeria Parlatini, Yuta Y Aoki, Francisco Xavier Castellanos, Simon B Eickhoff, Samuele Cortese
+    conference_short: AJP
+    conference: American Journal of Psychiatry, 2024.
+    pdf: https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.20230270
+    code:
+    bibtex: 
+    image: ./assets/img/tamon_ajp.png
+    notes: 
+
