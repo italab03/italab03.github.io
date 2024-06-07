@@ -1,0 +1,32 @@
+main:
+
+  - title: "Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile"
+    authors: Okito Yamashita, Ayumu Yamashita, Yuji Takahara, Yuki Sakai, Yasumasa Okamoto, Go Okada, Masahiro Takamura, Motoaki Nakamura, Takashi Itahashi, Takashi Hanakawa, Hiroki Togo, Yujiro Yoshihara, Toshiya Murai, Tomohisa Okada, Jin Narumoto, Hidehiko Takahashi, Haruto Takagishi, Koichi Hosomi, Kiyoto Kasai, Naohiro Okada, Osamu Abe, Hiroshi Imamizu, Takuya Hayashi, Shinsuke Koike, Saori C. Tanaka, Mitsuo Kawato, Brain/MINDS Beyond Human Brain MRI Group
+    conference_short: bioRxiv
+    conference: bioRxiv, 2024.
+    pdf: https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1.abstract
+    code:
+    bibtex: 
+    image: ./assets/img/yamashita_o_bioRxiv_2024.png
+    notes: 
+
+  - title: "Comprehensive evaluation of pipelines for diagnostic biomarkers of major depressive disorder using multi-site resting-state fMRI datasets"
+    authors: Yuji Takahara, Yuto Kashiwagi, Tomoki Tokuda, Junichiro Yoshimoto, Yuki Sakai, Ayumu Yamashita, Toshinori Yoshioka, Hidehiko Takahashi, Hiroto Mizuta, Kiyoto Kasai, Akira Kunimitsu, Naohiro Okada, Eri Itai, Hotaka Shinzato, Satoshi Yokoyama, Yoshikazu Masuda, Yuki Mitsuyama, Go Okada, Yasumasa Okamoto, Takashi Itahashi, Haruhisa Ohta, Ryu-ichiro Hashimoto, Kenichiro Harada, Hirotaka Yamagata, Toshio Matsubara, Koji Matsuo, Saori C. Tanaka, Hiroshi Imamizu, Koichi Ogawa, Sotaro Momosaki, Mitsuo Kawato, Okito Yamashita
+    conference_short: bioRxiv
+    conference: bioRxiv, 2024.
+    pdf: https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract
+    code:
+    bibtex: 
+    image: ./assets/img/takahara_bioRxiv_2024.png
+    notes: 
+
+  - title: "Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study"
+    authors: Takashi Itahashi, Ayumu Yamashita, Yuji Takahara, Noriaki Yahata, Yuta Y Aoki, Junya Fujino, Yujiro Yoshihara, Motoaki Nakamura, Ryuta Aoki, Haruhisa Ohta, Yuki Sakai, Masahiro Takamura, Naho Ichikawa, Go Okada, Naohiro Okada, Kiyoto Kasai, Saori C Tanaka, Hiroshi Imamizu, Nobumasa Kato, Yasumasa Okamoto, Hidehiko Takahashi, Mitsuo Kawato, Okito Yamashita, Ryu-ichiro Hashimoto
+    conference_short: bioRxiv
+    conference: bioRxiv, 2023.
+    pdf: https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1
+    code:
+    bibtex: 
+    image: ./assets/img/itahashi_bioRxiv_2023.png
+    notes: 
+
