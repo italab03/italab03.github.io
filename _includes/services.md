@@ -5,4 +5,6 @@
   <li>Scientific Reports</li>
   <li>Molecular Autism</li>
   <li>Brain Imaging and Behavior</li>
+  <li>Journal of the American Academy of Child and Adolescent Psychiatry</li>
+  <li>Acta Psychologica</li>
 </ul>
