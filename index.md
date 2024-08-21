@@ -17,6 +17,7 @@ If you have any questions, please feel free to contact me.
 - **Machine learning** 
 
 ## News
+- **[Aug. 2024 ]** Co-authored paper is published on **Psychiatry and Clinical Neurosciences**.
 - **[Aug. 2024 ]** Co-authored paper is published on **Heliyon**.
 - **[Apr. 2024]** Our paper is published on **Americal Journal of Psychiatry**.
 

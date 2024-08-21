@@ -1,4 +1,14 @@
 main:
+  - title: "The status of MRI databases across the world focused on psychiatric and neurological disorders"
+    authors: Saori C. Tanaka, Kiyoto KasaiD, Yasumasa Okamoto, Shinsuke Koike, Takuya Hayashi et al.
+    conference_short: PCN
+    conference: Psychiatry and Clinical Neurosciences, 2024.
+    pdf: https://onlinelibrary.wiley.com/doi/10.1111/pcn.13717
+    code:
+    bibtex: 
+    image: ./assets/img/tanaka_PCN_2024.png
+    notes: 
+
   - title: "Roles of empathy in altruistic cooperation in adults with and without autism spectrum disorder"
     authors: Shoko Okuzumi, Shisei Tei, Takashi Itahashi, Yuta Y. Aoki, Ryu-ichiro Hashimoto, Motoaki Nakamura, Hidehiko Takahashi, Haruhisa Ohta, Junya Fujino
     conference_short: Heliyon
