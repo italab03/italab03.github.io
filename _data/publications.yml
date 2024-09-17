@@ -1,6 +1,16 @@
 main:
+  - title: "Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder"
+    authors: Ryu-ichiro Hashimoto, Rieko Okada, Ryuta Aoki, Motoaki Nakamura, Haruhisa Ohta, Takashi Itahashi
+    conference_short: Cerebral Cortex
+    conference: Cerebral cortex, 2024.
+    pdf: https://doi.org/10.1093/cercor/bhae363
+    code:
+    bibtex: 
+    image: ./assets/img/hashimoto_cereb_cortex_2024.png
+    notes: 
+  
   - title: "The status of MRI databases across the world focused on psychiatric and neurological disorders"
-    authors: Saori C. Tanaka, Kiyoto KasaiD, Yasumasa Okamoto, Shinsuke Koike, Takuya Hayashi et al.
+    authors: Saori C. Tanaka, Kiyoto Kasai, Yasumasa Okamoto, Shinsuke Koike, Takuya Hayashi et al.
     conference_short: PCN
     conference: Psychiatry and Clinical Neurosciences, 2024.
     pdf: https://onlinelibrary.wiley.com/doi/10.1111/pcn.13717
