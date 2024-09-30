@@ -20,13 +20,3 @@ main:
     image: ./assets/img/takahara_bioRxiv_2024.png
     notes: 
 
-  - title: "Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study"
-    authors: Takashi Itahashi, Ayumu Yamashita, Yuji Takahara, Noriaki Yahata, Yuta Y Aoki, Junya Fujino, Yujiro Yoshihara, Motoaki Nakamura, Ryuta Aoki, Haruhisa Ohta, Yuki Sakai, Masahiro Takamura, Naho Ichikawa, Go Okada, Naohiro Okada, Kiyoto Kasai, Saori C Tanaka, Hiroshi Imamizu, Nobumasa Kato, Yasumasa Okamoto, Hidehiko Takahashi, Mitsuo Kawato, Okito Yamashita, Ryu-ichiro Hashimoto
-    conference_short: bioRxiv
-    conference: bioRxiv, 2023.
-    pdf: https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1
-    code:
-    bibtex: 
-    image: ./assets/img/itahashi_bioRxiv_2023.png
-    notes: 
-

@@ -1,4 +1,14 @@
 main:
+  - title: "Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism"
+    authors: Takashi Itahashi, Ayumu Yamashita, Yuji Takahara, Noriaki Yahata, Yuta Y. Aoki, Junya Fujino, Yujiro Yoshihara, Motoaki Nakamura, Ryuta Aoki, Tsukasa Okimura, Haruhisa Ohta, Yuki Sakai, Masahiro Takamura, Naho Ichikawa, Go Okada, Naohiro Okada, Kiyoto Kasai, Saori C. Tanaka, Hiroshi Imamizu, Nobumasa Kato, Yasumasa Okamoto, Hidehiko Takahashi, Mitsuo Kawato, Okito Yamashita & Ryu-ichiro Hashimoto
+    conference_short: Molecular Psychiatry
+    conference: Molecular Psychiatry, 2024.
+    pdf: https://www.nature.com/articles/s41380-024-02759-3
+    code:
+    bibtex: 
+    image: ./assets/img/hashimoto_cereb_cortex_2024.png
+    notes: 
+  
   - title: "Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder"
     authors: Ryu-ichiro Hashimoto, Rieko Okada, Ryuta Aoki, Motoaki Nakamura, Haruhisa Ohta, Takashi Itahashi
     conference_short: Cerebral Cortex

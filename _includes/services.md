@@ -7,4 +7,7 @@
   <li>Brain Imaging and Behavior</li>
   <li>Journal of the American Academy of Child and Adolescent Psychiatry</li>
   <li>Acta Psychologica</li>
+  <li>Journal of Neurodevelopmental Disorders</li>
+  <li>European Child & Adolescent Psychiatry</li>
+  <li>Brain Structure and Function</li>
 </ul>
