@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 <br>
-For other publciations, please see [google citation](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en) or [researchmap](https://researchmap.jp/nosno).
+For other publciations, please see [google citation](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en).
 <div class="publications">
 <ol class="bibliography">
 

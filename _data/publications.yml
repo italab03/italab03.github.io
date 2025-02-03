@@ -1,4 +1,14 @@
 main:
+  - title: "Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition"
+    authors: Takashi Itahashi, Ryuta Aoki, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto 
+    conference_short: Scientific Report
+    conference: Scientific Reports, 2025.
+    pdf: https://www.nature.com/articles/s41598-025-88733-7
+    code:
+    bibtex: 
+    image: ./assets/img/itahashi_SR_2025.png
+    notes: 
+  
   - title: "Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism"
     authors: Takashi Itahashi, Ayumu Yamashita, Yuji Takahara, Noriaki Yahata, Yuta Y. Aoki, Junya Fujino, Yujiro Yoshihara, Motoaki Nakamura, Ryuta Aoki, Tsukasa Okimura, Haruhisa Ohta, Yuki Sakai, Masahiro Takamura, Naho Ichikawa, Go Okada, Naohiro Okada, Kiyoto Kasai, Saori C. Tanaka, Hiroshi Imamizu, Nobumasa Kato, Yasumasa Okamoto, Hidehiko Takahashi, Mitsuo Kawato, Okito Yamashita & Ryu-ichiro Hashimoto
     conference_short: Molecular Psychiatry
