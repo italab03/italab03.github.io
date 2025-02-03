@@ -7,7 +7,7 @@ layout: homepage
 I am Takashi Itahashi (板橋貴史), a Senior Assistant Professor in the <a href="https://middrshowa.github.io/" target="_blank">Medical Institute of Developmental Disabilities Research</a>, Showa University, Tokyo, Japan.
 
 ## Recent topics
-- **Jan. 2025** Authored paper is published on **Scientific Reports**.
+- **Feb. 2025** Authored paper is published on **Scientific Reports**.
 - **Sep. 2024** Authored paper is published on **Molecular Psychiatry**.
 - **Sep. 2024** Co-authored paper is published on **Cerebral Cortex**.
 - **Aug. 2024** Co-authored paper is published on **Psychiatry and Clinical Neurosciences**.
