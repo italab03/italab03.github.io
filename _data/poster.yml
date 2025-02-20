@@ -1,4 +1,20 @@
 main:
+  - title: "描画課題を用いた自閉スペクトラム症特異的な表現の検討"
+    authors: 板橋貴史、太田晴久、橋本龍一郎
+    conference_short: CPSY TOKYO 2025
+    conference: CPSY TOKYO 2025, 2025.
+    code:
+    bibtex: 
+    notes: 
+
+  - title: "自閉スペクトラム症者における質感認識"
+    authors: 澤山正貴、板橋貴史、太田晴久
+    conference_short: CPSY TOKYO 2025
+    conference: CPSY TOKYO 2025, 2025.
+    code:
+    bibtex: 
+    notes: 
+
   - title: "深層畳み込みニューラルネットワークから表現される高層画像特徴量への視線誘引に対するASDの影響"
     authors: ユンソクジュン、浅見徳哉、江口萌々、赤松和昌、太田晴久、中村元昭、沖村宰、橋本龍一郎、板橋貴史、青木隆太、宮脇陽一
     conference_short: 日本視覚学会冬季大会
