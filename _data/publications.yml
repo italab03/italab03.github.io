@@ -1,7 +1,17 @@
 main:
+  - title: "Neural substrates of multidimensional psychological characteristics of remembering episodes with autobiographical significance"
+    authors: Ryu-ichiro Hashimoto, Ryuta Aoki, Haruhisa Ohta, Takashi Itahashi 
+    conference_short: Cerebral Cortex
+    conference: Cerebral Cortex, 2025.
+    pdf: https://academic.oup.com/cercor/article/35/2/bhaf033/8039140
+    code:
+    bibtex: 
+    image: ./assets/img/hashimoto_CC_2025.png
+    notes: 
+  
   - title: "Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition"
     authors: Takashi Itahashi, Ryuta Aoki, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto 
-    conference_short: Scientific Report
+    conference_short: Scientific Reports
     conference: Scientific Reports, 2025.
     pdf: https://www.nature.com/articles/s41598-025-88733-7
     code:
