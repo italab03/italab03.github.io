@@ -10,13 +10,3 @@ main:
     image: ./assets/img/yamashita_o_bioRxiv_2024.png
     notes: 
 
-  - title: "Comprehensive evaluation of pipelines for diagnostic biomarkers of major depressive disorder using multi-site resting-state fMRI datasets"
-    authors: Yuji Takahara, Yuto Kashiwagi, Tomoki Tokuda, Junichiro Yoshimoto, Yuki Sakai, Ayumu Yamashita, Toshinori Yoshioka, Hidehiko Takahashi, Hiroto Mizuta, Kiyoto Kasai, Akira Kunimitsu, Naohiro Okada, Eri Itai, Hotaka Shinzato, Satoshi Yokoyama, Yoshikazu Masuda, Yuki Mitsuyama, Go Okada, Yasumasa Okamoto, Takashi Itahashi, Haruhisa Ohta, Ryu-ichiro Hashimoto, Kenichiro Harada, Hirotaka Yamagata, Toshio Matsubara, Koji Matsuo, Saori C. Tanaka, Hiroshi Imamizu, Koichi Ogawa, Sotaro Momosaki, Mitsuo Kawato, Okito Yamashita
-    conference_short: bioRxiv
-    conference: bioRxiv, 2024.
-    pdf: https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract
-    code:
-    bibtex: 
-    image: ./assets/img/takahara_bioRxiv_2024.png
-    notes: 
-
