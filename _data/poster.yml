@@ -1,8 +1,17 @@
 main:
+  
+  - title: "Elevated brain iron deposition of right substantia nigra in adult males with autism"
+    authors: Takashi Itahashi, Kazuyo Tanji, Yumi Shikauchi, Naoe Taiga, Tsukasa Okimura, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto
+    conference_short: 日本ヒト脳マッピング学会
+    conference: 第27回日本ヒト脳マッピング学会, 2025.
+    code:
+    bibtex: 
+    notes: 
+
   - title: "描画課題を用いた自閉スペクトラム症特異的な表現の検討"
     authors: 板橋貴史、太田晴久、橋本龍一郎
     conference_short: CPSY TOKYO 2025
-    conference: CPSY TOKYO 2025, 2025.
+    conference: CPSY TOKYO 2025.
     code:
     bibtex: 
     notes: 

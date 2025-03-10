@@ -8,6 +8,7 @@ I am Takashi Itahashi (板橋貴史), a Senior Assistant Professor in the <a hre
 
 
 ## Recent topics
+- **Mar. 2025** 第27回ヒト脳マッピング学会にてポスター発表を行いました．
 - **Feb. 2025** Co-authored paper is published on **Neural Networks**.
 - **Feb. 2025** Co-authored paper is published on **Cerebral Cortex**.
 - **Feb. 2025** CPSY TOKYO 2025にてポスター発表を行いました．
