@@ -21,7 +21,6 @@ I am Takashi Itahashi (板橋貴史), a Senior Assistant Professor in the <a hre
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/preprints.md %}
-{% include_relative _includes/poster.md %}
 
 ## Research Grants
 - <div style="font-family: 'メイリオ', Meiryo;">科研費・基盤研究C 「<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K10715/" target="_blank">中脳ドーパミン作動システムに着目した自閉スペクトラム症の脳神経回路の検討</a>」（2024-2026、代表）</div>
