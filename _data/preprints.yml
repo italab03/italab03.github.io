@@ -1,4 +1,14 @@
 main:
+  - title: "Unsupervised feature computation-based feature selection robustly extracted resting-state functional connectivity patterns related to mental disorders"
+    authors: Ayumu Yamashita, Takashi Itahashi, Yuki Sakai, Masahiro Takamura, Hiroki Togo, Yujiro Yoshihara, Tomohisa Okada, Hirotaka Yamagata, Kenichiro Harada, Haruto Takagishi, Koichi Hosomi, Naohiro Okada, Osamu Abe, Go Okada, Yasumasa Okada, Ryuichiro Hashimoto, Takashi Hanakawa, Toshiya Murai, Koji Matsuo, Hidehiko Takahashi, Kiyoto Kasai, Takuya Hayashi, Shinsuke Koike, Saori C Tanaka, Mitsuo Kawato, Hiroshi Imamizu, Okito Yamashita, Brain/MINDS Beyond Human Brain MRI Group
+    conference_short: bioRxiv
+    conference: bioRxiv, 2025.
+    pdf: https://www.biorxiv.org/content/10.1101/2025.04.14.648842v1
+    code:
+    bibtex: 
+    image: ./assets/img/yamashita_a_bioRxiv_2025.png
+    notes: 
+
 
   - title: "Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile"
     authors: Okito Yamashita, Ayumu Yamashita, Yuji Takahara, Yuki Sakai, Yasumasa Okamoto, Go Okada, Masahiro Takamura, Motoaki Nakamura, Takashi Itahashi, Takashi Hanakawa, Hiroki Togo, Yujiro Yoshihara, Toshiya Murai, Tomohisa Okada, Jin Narumoto, Hidehiko Takahashi, Haruto Takagishi, Koichi Hosomi, Kiyoto Kasai, Naohiro Okada, Osamu Abe, Hiroshi Imamizu, Takuya Hayashi, Shinsuke Koike, Saori C. Tanaka, Mitsuo Kawato, Brain/MINDS Beyond Human Brain MRI Group
