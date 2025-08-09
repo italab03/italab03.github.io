@@ -21,13 +21,3 @@ main:
     notes: 
 
 
-  - title: "Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile"
-    authors: Okito Yamashita, Ayumu Yamashita, Yuji Takahara, Yuki Sakai, Yasumasa Okamoto, Go Okada, Masahiro Takamura, Motoaki Nakamura, Takashi Itahashi, Takashi Hanakawa, Hiroki Togo, Yujiro Yoshihara, Toshiya Murai, Tomohisa Okada, Jin Narumoto, Hidehiko Takahashi, Haruto Takagishi, Koichi Hosomi, Kiyoto Kasai, Naohiro Okada, Osamu Abe, Hiroshi Imamizu, Takuya Hayashi, Shinsuke Koike, Saori C. Tanaka, Mitsuo Kawato, Brain/MINDS Beyond Human Brain MRI Group
-    conference_short: bioRxiv
-    conference: bioRxiv, 2024.
-    pdf: https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1.abstract
-    code:
-    bibtex: 
-    image: ./assets/img/yamashita_o_bioRxiv_2024.png
-    notes: 
-
