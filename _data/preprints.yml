@@ -1,15 +1,4 @@
 main:
-  - title: "Iron deposition and functional connectivity alterations in the right substantia nigra of adult males with autism"
-    authors: Takashi Itahashi, Kazuyo Tanji, Yumi Shikauchi, Taiga Naoe, Tsukasa Okimura, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto
-    conference_short: bioRxiv
-    conference: bioRxiv, 2025.
-    pdf: https://www.biorxiv.org/content/10.1101/2025.04.18.649491v1
-    code:
-    bibtex: 
-    image: ./assets/img/itahashi_bioRxiv_2025.png
-    notes: 
-
-
   - title: "Unsupervised feature computation-based feature selection robustly extracted resting-state functional connectivity patterns related to mental disorders"
     authors: Ayumu Yamashita, Takashi Itahashi, Yuki Sakai, Masahiro Takamura, Hiroki Togo, Yujiro Yoshihara, Tomohisa Okada, Hirotaka Yamagata, Kenichiro Harada, Haruto Takagishi, Koichi Hosomi, Naohiro Okada, Osamu Abe, Go Okada, Yasumasa Okada, Ryuichiro Hashimoto, Takashi Hanakawa, Toshiya Murai, Koji Matsuo, Hidehiko Takahashi, Kiyoto Kasai, Takuya Hayashi, Shinsuke Koike, Saori C Tanaka, Mitsuo Kawato, Hiroshi Imamizu, Okito Yamashita, Brain/MINDS Beyond Human Brain MRI Group
     conference_short: bioRxiv

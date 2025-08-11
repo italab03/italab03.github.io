@@ -1,4 +1,16 @@
 main:
+  - title: "Iron deposition and functional connectivity alterations in the right substantia nigra of adult males with autism"
+    authors: Takashi Itahashi, Kazuyo Tanji, Yumi Shikauchi, Taiga Naoe, Tsukasa Okimura, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto
+    conference_short: Cerebral Cortex
+    conference: Cerebral Cortex, 2025.
+    pdf: https://doi.org/10.1093/cercor/bhaf216
+    code:
+    bibtex: 
+    image: ./assets/img/itahashi_bioRxiv_2025.png
+    notes: 
+
+
+
   - title: "Computational mechanisms of neuroimaging biomarkers uncovered by multicenter resting-state fMRI connectivity variation profile"
     authors: Okito Yamashita, Ayumu Yamashita, Yuji Takahara, Yuki Sakai, Yasumasa Okamoto, Go Okada, Masahiro Takamura, Motoaki Nakamura, Takashi Itahashi, Takashi Hanakawa, Hiroki Togo, Yujiro Yoshihara, Toshiya Murai, Tomohisa Okada, Jin Narumoto, Hidehiko Takahashi, Haruto Takagishi, Koichi Hosomi, Kiyoto Kasai, Naohiro Okada, Osamu Abe, Hiroshi Imamizu, Takuya Hayashi, Shinsuke Koike, Saori C. Tanaka, Mitsuo Kawato, Brain/MINDS Beyond Human Brain MRI Group
     conference_short: Molecular Psychiatry
