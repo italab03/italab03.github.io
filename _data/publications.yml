@@ -3,7 +3,7 @@ main:
     authors: Takashi Itahashi, Kazuyo Tanji, Yumi Shikauchi, Taiga Naoe, Tsukasa Okimura, Motoaki Nakamura, Haruhisa Ohta, Ryu-ichiro Hashimoto
     conference_short: Cerebral Cortex
     conference: Cerebral Cortex, 2025.
-    pdf: https://doi.org/10.1093/cercor/bhaf216
+    pdf: https://academic.oup.com/cercor/article-abstract/35/8/bhaf216/8230125
     code:
     bibtex: 
     image: ./assets/img/itahashi_bioRxiv_2025.png
